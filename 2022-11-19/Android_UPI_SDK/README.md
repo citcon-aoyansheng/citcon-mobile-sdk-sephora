@@ -1,7 +1,7 @@
 
 1. Install the aar file to your local maven repository
 
-		cd android_mobile_sdk
+		cd Android_UPI_SDK
 		
 		mvn install:install-file -Dfile=cpay-4.23.00.aar -DpomFile=cpay-4.23.00.pom
 		mvn install:install-file -Dfile=mobile-2.5.6.aar -DpomFile=mobile-2.5.6.pom
